@@ -1,5 +1,6 @@
 {
-  "name": "EditorJS LaTeX",
+  "name": "editorjs-latex",
+  "displayName": "EditorJS LaTeX",
   "version": "1.0.0",
   "description": "LaTeX block support for EditorJS",
   "main": "./index.js",
